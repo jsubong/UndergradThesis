@@ -1,2 +1,2 @@
-# UndergradTheses
+# UndergradThesis
 Undergrad Thesis
